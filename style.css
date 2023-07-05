@@ -28,6 +28,7 @@ body
     color:beige;
     text-align: center;
     font-size: 0.83rem;
+    margin-bottom: 1rem;
 }
 
 footer
@@ -36,5 +37,12 @@ footer
     color: beige;
     font-size: 0.6rem;
     margin-top: 0.6rem;
+}
+
+.title-votação
+{
+    color: beige;
+    font-size: 1rem;
+    text-align: center;
 }
 
