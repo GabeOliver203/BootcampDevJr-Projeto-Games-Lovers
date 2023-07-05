@@ -1,0 +1,40 @@
+body
+{
+    background-color: rgb(161, 158, 164);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.container
+{
+    background-color: #3a0c53 ;
+    margin: auto;
+    width: 600px;
+    border-radius: 5px;
+    overflow: hidden;
+    padding: 0.8rem 1rem;
+}
+
+.header-title
+{
+    color: rgb(253, 211, 21);
+    font-size: 1.8rem;
+    font-weight: 550;
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+
+.primary-text
+{
+    color:beige;
+    text-align: center;
+    font-size: 0.83rem;
+}
+
+footer
+{
+    text-align: center;
+    color: beige;
+    font-size: 0.6rem;
+    margin-top: 0.6rem;
+}
+
