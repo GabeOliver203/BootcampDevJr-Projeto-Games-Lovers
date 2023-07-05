@@ -6,14 +6,14 @@ body
 
 .container
 {
-    background-color: #3a0c53 ;
+    background: linear-gradient(to bottom,#1f0d22 , #631f6f);
     margin: auto;
     width: 600px;
     border-radius: 5px;
     overflow: hidden;
     padding: 0.8rem 1rem;
-}
 
+}
 .header-title
 {
     color: rgb(253, 211, 21);
