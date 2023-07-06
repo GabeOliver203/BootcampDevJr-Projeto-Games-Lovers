@@ -134,3 +134,44 @@ input:focus
     text-align: left;
     align-items: center;
 }
+
+@media screen and (max-width: 600px)
+{
+    html
+    {
+        font-size: 14px;
+    }
+
+    .container
+    {
+        width: 95%;
+    }
+
+    .opt-text 
+    {
+        color: #f8f8f8;
+        font-size: 1rem;
+        display: flex;
+        flex-direction: column;
+        font-size: 1.2rem;
+        align-items: center;
+    }
+
+    .opt-container 
+    {
+        background: linear-gradient(to bottom, #2637da, #332a8b);
+        padding: 0.6rem 0.6rem;
+        color: #f8f8f8;
+        border-radius: 5px;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+        text-align: center;
+        display: table-column;
+        width: 50%;
+        margin: 0 auto;
+        margin-bottom: 1rem;
+        display: block;
+        width: 50%; 
+    }
+
+}
