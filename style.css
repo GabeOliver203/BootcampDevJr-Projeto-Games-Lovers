@@ -42,7 +42,35 @@ footer
 .title-votação
 {
     color: beige;
-    font-size: 1rem;
+    font-size: 1.3rem;
+    text-align: center;
+}
+
+.sub-container
+{
+    background: linear-gradient(to top,#1f0d22 , #631f6f);
+    width: auto;
+    padding: 1rem;
+    color: #ffff;
+    border-radius: 10px;
+}
+
+.opt-text
+{
+    color: beige;
+    font-size: 1.3rem;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.opt-container
+{
+    background: linear-gradient(to bottom, #3f62ef, #6bbdfc);
+    padding: 1.25rem 2.5rem;
+    color: #ffff;
+    border-radius: 5px;
+    margin-top: 1rem;
     text-align: center;
 }
 
